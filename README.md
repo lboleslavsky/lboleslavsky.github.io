@@ -1,4 +1,4 @@
 # lboleslavsky.github.io
 Hr simulator
 
-[Play HR Simulator](https://lboleslavsky.gitlab.io/hrsim)
+[PLAY HR SIMULATOR](https://lboleslavsky.gitlab.io/hrsim)
